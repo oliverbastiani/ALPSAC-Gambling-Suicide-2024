@@ -1,0 +1,16 @@
+The relationship between Problem Gambling Severity Index (PGSI) scores and suicidality: Results of a nine-year cohort study of young UK adults
+____________________________________________________________________________
+
+With the increased awareness of suicide and its dire consequences, it is important to understand which factors may be linked to suicidality. Harmful gambling has been linked to suicidality, but we don’t fully understand whether this occurs in the general population of gamblers, or if harmful gambling can predict future suicidality. Our study addressed this, by investigating the relationship between harmful gambling and suicide attempts among young UK adults in the Avon Longitudinal Study of Parents and Children (ALSPAC) cohort. In this study, we investigated whether scores for harmful gambling were linked to suicide attempts at 24 years, and found evidence for this. We also investigated whether scores for harmful gambling at ages 20 and 24 years could predict future suicide attempts, and found evidence for this over one and four, but not five-year, timespans. These findings suggest that harmful gambling is linked to current and future suicidality, but the long-term effects of this relationship need to be investigated further.
+
+INCLUDED FILES:
+
+* 2.ALSPAC Gambling Variable Recoding
+- this file recodes data exported from ALSPAC into usable variables
+- ALSPAC variables can be searched on their variable search tool (https://variables.alspac.bris.ac.uk/)
+- For access to the ALSPAC dataset, please contact ALSPAC for approval: (https://www.bristol.ac.uk/alspac/researchers/our-data/)
+
+
+* 3.ALSPAC Gambling Multiple Imputation
+- this file using Multiple Imputation by Chained Equations to impute missing data in our sample
+- the structure of this code is informed by correspondence with Dr Lindsey Hines, who we would like to thank for her help with this part of the project
